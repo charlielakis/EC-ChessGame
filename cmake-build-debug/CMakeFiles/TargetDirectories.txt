@@ -1,0 +1,3 @@
+C:/Users/Slave/Desktop/PROGRAMMING/P7 - Chess w/ Inheritance/cmake-build-debug/CMakeFiles/_Inheritance.dir
+C:/Users/Slave/Desktop/PROGRAMMING/P7 - Chess w/ Inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Slave/Desktop/PROGRAMMING/P7 - Chess w/ Inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
